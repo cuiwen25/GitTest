@@ -1,3 +1,4 @@
-abcd
+﻿abcd
 123
 一二三
+add func1

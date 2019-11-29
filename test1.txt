@@ -2,3 +2,6 @@
 123
 一二三
 add func1
+cuiwen1
+cuiwen2
+

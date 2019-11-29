@@ -4,4 +4,6 @@
 add func1
 cuiwen1
 cuiwen2
+cuiwen3
+cuiwen4
 

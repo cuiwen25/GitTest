@@ -4,3 +4,6 @@
 add func1
 cfx1
 cfx2
+
+cfx3
+cfx4

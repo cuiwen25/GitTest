@@ -54,6 +54,8 @@ master 两个拥有写轮眼的少年
 
 naruto 疾风传·鸣人
 
+sakela 疾风传·樱
+
 master 第四次忍界大战·开始
 
 master 宇智波·斑
@@ -65,3 +67,10 @@ naruto 尾兽玉
 naruto 仙人模式
 
 naruto 尾兽行星连丸
+
+sakela 樱花冲
+
+sakela 阴封印
+
+sakela 痛天脚
+

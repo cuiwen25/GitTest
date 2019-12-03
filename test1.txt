@@ -16,12 +16,6 @@ sasuke 疾风传·佐助
 
 master 第四次忍界大战·开始
 
-master 宇智波·斑
-
-master 十尾
-
-master 面具男是·带土
-
 master 六道带土
 
 master 神威的秘密
@@ -53,3 +47,4 @@ naruto 仙人模式
 naruto 尾兽行星连丸
 
 buroto 博人传·忍者新世代
+

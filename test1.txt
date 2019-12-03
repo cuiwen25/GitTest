@@ -70,6 +70,22 @@ naruto 仙人模式
 
 naruto 尾兽行星连丸
 
+master 十尾
+
+master 面具男是·带土
+
+master 六道带土
+
+master 神威的秘密
+
+naruto 风遁·螺旋丸手里剑
+
+naruto 尾兽玉
+
+master 神罗天征
+
+master 伊邪那岐
+
 sakela 樱花冲
 
 sakela 阴封印
@@ -86,4 +102,5 @@ sasuke 麒麟
 
 sasuke 宇智波一族的秘密
 
+naruto 尾兽行星连丸
 

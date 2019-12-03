@@ -56,6 +56,8 @@ naruto 疾风传·鸣人
 
 sakela 疾风传·樱
 
+sasuke 疾风传·佐助
+
 master 第四次忍界大战·开始
 
 master 宇智波·斑
@@ -73,4 +75,15 @@ sakela 樱花冲
 sakela 阴封印
 
 sakela 痛天脚
+
+master 十尾
+
+sasuke 永恒万花筒
+
+master 面具男是·带土
+
+sasuke 麒麟
+
+sasuke 宇智波一族的秘密
+
 

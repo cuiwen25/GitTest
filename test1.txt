@@ -61,3 +61,5 @@ master 宇智波·斑
 naruto 风遁·螺旋丸手里剑
 
 naruto 尾兽玉
+
+naruto 仙人模式

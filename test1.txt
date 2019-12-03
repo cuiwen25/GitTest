@@ -54,6 +54,8 @@ master 两个拥有写轮眼的少年
 
 naruto 疾风传·鸣人
 
+sakela 疾风传·樱
+
 master 第四次忍界大战·开始
 
 master 宇智波·斑
@@ -73,3 +75,6 @@ naruto 尾兽玉
 master 神罗天征
 
 master 伊邪那岐
+
+sakela 樱花冲
+

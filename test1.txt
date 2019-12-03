@@ -62,6 +62,20 @@ master 第四次忍界大战·开始
 
 master 宇智波·斑
 
+master 十尾
+
+master 六道带土
+
+master 神威的秘密
+
+naruto 风遁·螺旋丸手里剑
+
+naruto 尾兽玉
+
+master 神罗天征
+
+master 伊邪那岐
+
 sakela 樱花冲
 
 sakela 阴封印
@@ -69,14 +83,6 @@ sakela 阴封印
 sakela 痛天脚
 
 naruto 风遁·螺旋丸手里剑
-
-naruto 尾兽玉
-
-naruto 仙人模式
-
-naruto 尾兽行星连丸
-
-master 十尾
 
 sasuke 永恒万花筒
 
@@ -86,4 +92,6 @@ sasuke 麒麟
 
 sasuke 宇智波一族的秘密
 
+naruto 仙人模式
 
+naruto 尾兽行星连丸

@@ -1,0 +1,62 @@
+﻿
+master 疾风传
+
+master 主线剧情
+
+master 五影会议
+
+master 九尾暴走
+
+master 两个拥有写轮眼的少年
+
+sakela 疾风传·樱
+
+naruto 疾风传·鸣人
+
+sasuke 疾风传·佐助
+
+master 第四次忍界大战·开始
+
+<<<<<<< HEAD:test1.txt
+=======
+master 宇智波·斑
+
+master 十尾
+
+>>>>>>> 578ab531b1114d01c6033ccda0bdf054652e2f66:test2.txt
+master 六道带土
+
+master 神威的秘密
+
+naruto 风遁·螺旋丸手里剑
+
+naruto 尾兽玉
+
+master 神罗天征
+
+master 伊邪那岐
+
+sakela 樱花冲
+
+sakela 阴封印
+
+sakela 痛天脚
+
+naruto 风遁·螺旋丸手里剑
+
+sasuke 永恒万花筒
+
+master 面具男是·带土
+
+sasuke 麒麟
+
+sasuke 宇智波一族的秘密
+
+naruto 仙人模式
+
+naruto 尾兽行星连丸
+
+buroto 博人传·忍者新世代
+
+﻿晚来天欲雪
+
